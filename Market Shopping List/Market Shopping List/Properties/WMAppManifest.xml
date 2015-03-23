@@ -2,7 +2,7 @@
 
 <Deployment xmlns="http://schemas.microsoft.com/windowsphone/2014/deployment" AppPlatformVersion="8.1">
   <DefaultLanguage xmlns="" code="en-US"/>
-  <App xmlns="" ProductID="{0d53b45c-8aaa-4bff-b2e9-6f4b881cfa81}" Title="Market_Shopping_List" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal"  Author="Market_Shopping_List author" Description="Sample description" SDOptOut ="false" BackUpOptOut ="false" Publisher="Market_Shopping_List" PublisherID="{32d977d6-c978-4742-af25-a5cc0d9b788b}">
+  <App xmlns="" ProductID="{4252f94c-ce89-4409-bf00-81610bd57bc7}" Title="Market_Shopping_List" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal"  Author="Market_Shopping_List author" Description="Sample description" SDOptOut ="false" BackUpOptOut ="false" Publisher="Market_Shopping_List" PublisherID="{4e31d4b8-605a-4488-8ed4-53f9aeb4dd86}">
     <IconPath IsRelative="true" IsResource="false">Assets\ApplicationIcon.png</IconPath>
     <Capabilities>
       <Capability Name="ID_CAP_NETWORKING"/>

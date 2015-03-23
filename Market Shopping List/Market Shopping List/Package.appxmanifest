@@ -4,12 +4,12 @@
          xmlns:m3="http://schemas.microsoft.com/appx/2014/manifest"
          xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest">
 
-  <Identity Name="ea466599-3ac6-464a-a836-72e8aa69d6f9"
+  <Identity Name="dccaa793-1d9f-46d7-b2d4-cf39a679a9b7"
             Publisher="CN=mvini_000"
             Version="1.0.0.0" />
 
-  <mp:PhoneIdentity PhoneProductId="0d53b45c-8aaa-4bff-b2e9-6f4b881cfa81"
-                    PhonePublisherId="32d977d6-c978-4742-af25-a5cc0d9b788b"/>
+  <mp:PhoneIdentity PhoneProductId="4252f94c-ce89-4409-bf00-81610bd57bc7"
+                    PhonePublisherId="4e31d4b8-605a-4488-8ed4-53f9aeb4dd86"/>
 
   <Properties>
     <DisplayName>Market Shopping List</DisplayName>
